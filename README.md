@@ -7,9 +7,9 @@ Snippets are organized into categories (folders) and each snippet is placed in i
 
 ## Using Snippets
 
-1. Click on the filename of the snippet you'd like to use.
+1. Click on the filename of the snippet you'd like to use. Each file is set up to be a WordPress plugin.
 2. Click the "Raw" button (next to "Blame" and "History") at the top right.
-3. Save the page to your wp-content/plugins folder and upload to your server. Alternatively you can compress the file as a .zip file and upload as a plugin from within WordPress. 
+3. Save the page from your browser to your wp-content/plugins folder and upload to your server. Alternatively you can compress the file as a .zip file and upload as a plugin from within WordPress. 
 4. Activate the plugin from the WordPress plugins page.
 
 [Need more help installing plugins?](http://codex.wordpress.org/Managing_Plugins#Installing_Plugins)
