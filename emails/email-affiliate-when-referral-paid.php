@@ -35,7 +35,7 @@ function affwp_eawrp_affiliate_referral_paid_email_body( $affiliate_id, $amount,
 
 	$referrals_page = add_query_arg( 'tab', 'referrals', affiliate_wp()->login->get_login_url() );
 
-	$message = 	sprintf( "Hi %s,", affiliate_wp()->affiliates->get_affiliate_name( $affiliate_id ) ) . "\n\n";
+	$message = sprintf( "Hi %s,", affiliate_wp()->affiliates->get_affiliate_name( $affiliate_id ) ) . "\n\n";
 	$message .= sprintf( "We wanted to let you know that your referral for %s from %s has just been paid!", $amount, $date ) . "\n\n";
 	$message .= sprintf( "You can view your referrals anytime from your affiliate dashboard: %s", $referrals_page ) . "\n\n";
 	$message .= "Keep it up!" . "\n\n";
