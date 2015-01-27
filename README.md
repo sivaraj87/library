@@ -5,11 +5,22 @@ This is a community-maintained repository of code snippets that help modify the 
 
 Snippets are organized into categories (folders) and each snippet is placed in its own file with a name that describes what it does.
 
+
+
 ## Submitting Your Snippet
 
 We welcome and encourage everyone to submit their code snippets. If you would like to submit your snippet, please [fork](https://github.com/affiliatewp/library/fork) the repository and then create a [pull request](https://github.com/affiliatewp/library/compare/).
 
 Please refer to the [Contributing guidelines](https://github.com/affiliatewp/library/blob/master/CONTRIBUTING.md) before submitting your pull request.
+
+## Using Snippets
+
+1. Click on the filename of the snippet you'd like to use.
+2. Click the "Raw" button (next to "Blame" and "History") at the top right.
+3. Save the page to your wp-content/plugins folder and upload to your server. Alternatively you can compress the file as a .zip file and upload as a plugin from within WordPress. 
+4. Activate the plugin from the WordPress plugins page.
+
+[Need more help installing plugins?](http://codex.wordpress.org/Managing_Plugins#Installing_Plugins)
 
 ## Proposing a Snippet
 
