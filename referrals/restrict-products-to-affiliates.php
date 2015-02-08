@@ -8,6 +8,8 @@
  * Version: 1.0
  */
 
+// Note: if you don't want a $0.00 referral being created, and you don't want the affiliate being notified of a $0.00 referral (if they have they have enabled referral notifications) enable the "Ignore Zero Referrals?" setting from Affiliates → Settings → Misc.
+
 /**
  * Get an array of product IDs and the affiliates who are allowed to earn commission for them
 */
