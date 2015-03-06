@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: AffiliateWP - Order Details For Affiliates - Disable Order Fields
+ * Plugin Name: AffiliateWP - Order Details For Affiliates - Disable Order Information
  * Plugin URI: http://affiliatewp.com
- * Description: Disable certain fields from showing on the order details tab
+ * Description: Disable certain information from showing on the order details tab
  * Author: Andrew Munro, Sumobi
  * Author URI: http://sumobi.com
  * Version: 1.0
