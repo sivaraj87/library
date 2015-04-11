@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: AffiliateWP - Modify First Referral Commission Amount
- * Plugin URI: Plugin URI: http://affiliatewp.com
+ * Plugin URI: http://affiliatewp.com
  * Description: Modify an affiliate's commission rate for their very first referral. All other subsequent referrals will be recorded at the default rate.
  * Author: Andrew Munro
  * Author URI: http://affiliatewp.com
